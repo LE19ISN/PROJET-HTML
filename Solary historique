@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<HTML>
+  <HEAD>
+  <META CHARSET="UTF-8">
+  <TITLE>exemple CSS</TITLE>
+     <link rel="stylesheet" href="Stylesheet e-sport Solary.css">
+  </HEAD>
+ 
+
+<ul class="navbar">
+  <li><a href="Solary classement.html">Classement</a>
+  <li><a href="Solary roster actuelle.html">Solary roster </a>
+  <li><a href=" Solary LFL.html"> Solary Homme page </a>
+</ul>
+
+<body>
+<h1>Solary historique</h1>
+
+<p> En fin de 2017, les 9 premiers membres de Solary quittèrent Eclypsia une WebTV localisé sur Paris car ils avait des différents avec les différents actionnaires. Quelques jours plus tard ils fondent Solary les 9 premiers membres étant les actionnaires de la boîte. L'équipe Ligue of Legends reste intact et en 2018, ils firent le Lol Open Tour ou Solary finit Top 7. En 2019 la team d'amis rejoint la nouvelle ligue national fraîchement crée la LFL.
+<hi>Les valeurs de l'équipe</hi>
+<p>L'équipe Solary est une équipe d'amis, elle ne retient pas ses joueurs si il sont envie de partir pour rejoindre une plus grosse équipe, l'équipe n'ayant pas beaucoup de budget elle est obligé d'avoir des joueurs jeunes et sans expériance. D'ailleurs elle à une équipe entièrement française ce qui est rare,dans les grosses équipes de LFL qui ont fait 1 ou 2 imports d'étranger afin de s'assurer de meilleurs performance 
+<img src="https://d2ix1vn492wbxl.cloudfront.net/stream/82b1b361-c3e0-488d-b4f1-66e22f9e389d.png"
+</body>
+</HTML>
