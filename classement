@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<HTML>
+  <HEAD>
+  <META CHARSET="UTF-8">
+  <TITLE>exemple CSS</TITLE>
+     <link rel="stylesheet" href="Stylesheet e-sport Solary.css">
+  </HEAD>
+  <BODY> 
+   
+
+<ul class="navbar">
+  <li><a href="Solary.html">Solary historique</a>
+  <li><a href="Solary LFL.html">Homme page Solary </a>
+  <li><a href="Solary roster actuelle.html"> Roster de Solary </a>
+</ul>
+
+
+<h1>Les résultats de l'année 2019 de LFL</h1>
+
+
+<p> L'année 2019 est une mauvaise annés pour Solary faisant sur le segment de printemps et d'été un total de 4 victoires pour 24 défaites ce qui les classes comme étant la pire équipe de la LFL, mais l'équipe a largement pogréssée cette année et reviendra plus forte pour le segment d'été 2020 
+
+
+  </BODY>
+</HTML>
