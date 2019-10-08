@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<HTML>
+  <HEAD>
+  <META CHARSET="UTF-8">
+  <TITLE>exemple CSS</TITLE>
+     <link rel="stylesheet" href="Stylesheet e-sport Solary.css">
+  </HEAD>
+  <BODY> 
+   
+<ul class="navbar">
+  <li><a href="Solary.html">Solary</a>
+  <li><a href="Solary classement.html">Classement</a>
+  <li><a href="Solary LFL.html">Solary Homme page </a>
+ 
+</ul>
+
+<h1>Roster Actuelle de Solary</h1>
+
+<p>Le top laner de L'équipe Solary en LFL se nomme Andrea "Katare" Suchodolski.<Br> Le jungler actuelle de l'équipe Solary évoluant en LFl se nomme Stéphane"Manaty" Dimier.<br> Le mid-laner de l'équipe Solary se nomme Scott "Tonerre" Ménard.<br> L'adc de Solary et le capitaine de l'équipe se nomme César "Wakz" Hugues et il est accompagné par son support Jules "Hantera" Bourgeois.<br></p>
+<img src="https://static1.millenium.org/articles/7/32/21/97/@/833013-lfl-solary-equipe-joueur-article_m-4.png" width="50%">
+<h1>Les anciens membres de l'équipe de Solary</h1><br>
+Tio qui fut le mid-laner de Solary durant le spring split de 2019 et son équipe après Solary fut Lunary l'équipe soeur de Solary qui évolue dans le Lol Open Tour en France qui as termes deviendras la ligue en dessous de la LFL et qui aura un tournoi promotionnel pour monter dans la ligue national, la LFL.<br>
+Skeanz  qui fut le jungler de Solary durant 2018, qui partit vers Vitality.Bee pour l'année 2019, qui est l'équipe académique de Vitality une équipe française évoluant en LEC ( League of legends European Championship).<br>
+Trayton qui officiait au poste de support chez solary à suivit Skeanz dans son départ de Solary pour rejoindre Vitality.Bee en tant que support<br>
+Melon le mid-laner de Solary en 2018 quitta l'équipe pour rejoindre Lunary en 2019<br>
+Chap ancien jungler de Solary en 2018 quitta l'équipe afin de rejoindre Lunary en 2019</p>
+
+<h1>Staff</h1>
+<p> Le staff de Solary est actuellement composéede <br>
+Samchaka qui officie dans l'équipe en tant que Head Coach <br>
+Caelan assistant Coach de l'équipe Solary <br> 
+Taipouz manageur de l'équipe Solary <br>
+Ainsi que LRB(Le Roi Bisous) Fondateur de l'équipe</p>
